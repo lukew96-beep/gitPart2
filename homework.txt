@@ -1,0 +1,8 @@
+1. "git branch" creates a new branch;
+2. Fast-forward merging is when simple merging between two branches takes place.
+Recursive merging is when we have multiple changes in multiple files that do
+not have a specific timeline.;
+3."git checkout" changes to another branch;
+"git branch -d" or "git branch -D" deletes a branch;
+4. Merge conflicts happen when we have multiple changes in the same file across
+different branches. In this case git lets us chose which change we want to keep.
